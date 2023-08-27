@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cxqq7k7w0x13p"]
+
+[ext_resource type="Script" path="res://addons/godotloottables/Classes/LootObject.gd" id="1_ie4jp"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_ie4jp")
